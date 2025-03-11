@@ -1,8 +1,6 @@
 #include <stdio.h>
 
-int main(){
-
-    //Dados da Carta 1
+//Dados da Carta 1
     char estado1[1];
     char city1[1];
     char cdg1[3];
@@ -19,6 +17,8 @@ int main(){
     float pib2;
     int pts2;
     float area2;
+
+int main(){
 
     //Obtenção dos Dados da Carta 1
     printf("Digite o Estado da Carta 1: \n");
